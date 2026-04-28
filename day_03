@@ -1,0 +1,22 @@
+Functional Testing: Checks what the system does
+
+* Verifies features against requirements
+* Focuses on inputs → outputs
+* Ensures the application works correctly
+Types of functional testings are:
+Unit Testing
+Integration Testing
+System Testing
+Acceptance Testing (UAT - User Acceptance Testing)
+
+Non-Functional Testing: Checks how the system performs
+* Focuses on performance, usability, reliability, security
+* Ensures system works well under different conditions
+
+Types of non-functional testings are:
+Performance Testing (load, stress)
+Security Testing
+Usability Testing
+Compatibility Testing
+
+We choose non-functional testing when performance, scalability, security, or user experience is critical, such as in high-traffic applications like e-commerce or banking systems.
