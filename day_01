@@ -1,0 +1,23 @@
+1. Difference between QA and QC
+
+Quality Assurance (QA)
+* Focuses on process
+* Goal is to prevent defects
+* Ensures the right process is followed to build quality software
+* Activities: process definition, standards, audits, improvements
+* Done by: QA team, Test Lead, Managers
+
+Quality Control (QC)
+* Focuses on product
+* Goal is to find defects (bugs)
+* Ensures the product meets requirements
+* Activities: testing, defect identification, validation
+* Done by: Testers, Developers
+
+2. Explain in detail about STLC
+1. Requirement Analysis: Tester studies requirements
+Test Planning: Create Test Plan document
+Test Case Development: Write Test cases, Test scenarios, Test data
+Test Environment Setup: Prepare environment where we test the application
+Test Execution: Execute test cases
+Test Closure: Testing is completed and prepare Test Execution Report
