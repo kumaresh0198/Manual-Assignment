@@ -1,0 +1,8 @@
+1. Explain about Equivalence Partition and Boundary Value Analysis
+Equivalence Partitioning is a technique where input data is divided into groups as equivalent data, which are often categorized as either valid or invalid.
+Example:
+If a system accepts values from 1 to 100:
+Valid partition: 1–100
+Invalid partitions:
+  Less than 1 (e.g., 0, -5)
+  Greater than 100 (e.g., 101, 150)
