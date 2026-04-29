@@ -1,0 +1,40 @@
+Explain in detail about Static Testing ?
+
+Static Testing is a software testing technique which is used to check defects in software application without executing the code. It also helps finding errors that may not be found by Dynamic Testing.
+
+Objectives of Static Testing:
+ * Identify defects in requirements, design, and code
+ * Improve software quality
+ * Detect issues early before execution
+
+Types of Static Testing
+  1. Reviews (Manual)
+   This is a most common static testing method.
+  Types of Reviews:
+  * Informal Review – involves minimal documentation and typically includes other developers informally reviewing code or documentation.
+  * Walkthrough – Author explains the document/code step-by-step. The team provides the feedback and identifies issues.
+  * Peer Review – Developers within a team examine each other's code to find defects and suggest improvements.
+  * Inspection – A formal and structured review process led by a moderator.
+
+  2. Static Code Analysis
+    Performed using tools to analyze code without execution.
+    
+    * Data Flow Analysis: Examines how data is defined, used, and modified throughout the program to detect issues.
+    * Control Flow Analysis: Analyzes the execution paths within the code to identify potential problems.
+    * Coding Standards Compliance: Checks if the code adheres to predefined coding conventions and style guidelines.
+    * Security Vulnerability Scanning: Identifies potential security weaknesses and vulnerabilities in the code.
+      
+Advantages of Static Testing:
+* Finds defects early in SDLC
+* Reduces cost of fixing bugs
+* Improves code quality and maintainability
+* Helps in better understanding of requirements
+* No need to execute the code
+
+
+Static Testing Tools:
+· Checkstyle
+· Soot
+· SourceMeter
+· Lint
+· SonarQube
