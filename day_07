@@ -1,0 +1,14 @@
+White Box Testing focuses on verifying the internal logic and structure of the code. The following are the key techniques:
+1. Statement Coverage
+Statement Coverage ensures that every executable statement in the code is executed at least once.
+2. Branch Coverage
+Branch coverage focuses on testing the decision points or conditional branches in the code.
+It checks whether both possible outcomes (true and false) of each conditional statement are tested.
+3. Condition Coverage
+Condition Coverage ensures that each individual condition in a decision is evaluated as both true and false.
+4. Multiple Condition Coverage
+Multiple Condition Coverage ensures that all possible combinations of conditions are tested.
+5. Basis Path Testing
+Basis Path Testing is a technique that ensures all independent execution paths in the code are tested at least once.
+6. Loop Testing
+Loop Testing focuses on testing loops in the code for correctness.
