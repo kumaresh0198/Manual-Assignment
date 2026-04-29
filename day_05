@@ -8,7 +8,7 @@ Objectives of Static Testing:
  * Detect issues early before execution
 
 Types of Static Testing
-  1. Reviews (Manual)
+  1. Reviews
    This is a most common static testing method.
   Types of Reviews:
   * Informal Review – involves minimal documentation and typically includes other developers informally reviewing code or documentation.
