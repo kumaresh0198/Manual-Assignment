@@ -1,0 +1,71 @@
+Q1. Explain about Different Test Metrics
+Test Metrics are measurable values used to evaluate the quality, progress, and effectiveness of the software testing process.
+They help the testing team track project status, identify defects, improve productivity, and provide reports to stakeholders.
+
+ Importance of Test Metrics : 
+* Identifying defects at an early stage
+* Monitoring testing progress
+* Improving software quality
+* Allocating resources effectively
+* Measuring team productivity
+* Supporting continuous improvement in testing processes 
+  
+Types of Test Metrics:
+
+  * Defect Metrics: are used to measure the defects present in the software.
+  * Defect Density: It measures the number of defects found in a specific size of code.
+  * Defect Leakage: It measures the defects that were missed during testing and found by end users after release.
+  * Test Coverage Metrics: These metrics measure how much of the application has been tested.
+  * Test Coverage: It shows the percentage of total code or functionality tested.
+  * Test Execution Coverage: It measures how many planned test cases have been executed.
+  * Test Effort Metrics: These metrics focus on time, effort, and cost involved in testing.
+  * Test Execution Time: The total time taken to execute test cases.
+  * Cost Per Test Case/Cost Per Defect: The cost incurred to run a single test case or to fix a single defect.
+
+Software Testing Metric Categories:
+* Process Metrics: These metrics measure the efficiency of the testing and development process.
+* Product Metrics: These metrics measure product quality, complexity, and performance.
+* Project Metrics: These metrics measure project cost, productivity, resources, and delivery status
+
+Manual Test Metrics:
+* Base Metrics: These are raw data collected during test execution.
+* Calculated Metrics: These are derived using formulas from base metrics. They help managers track testing progress and project quality
+
+Formula for Test Metrics:
+Percentage test cases executed = (No of test cases executed / Total no of test cases written) x 100
+1. Test Case Effectiveness:
+Test Case Effectiveness = (Number of defects detected / Number of test cases run) x 100
+2. Passed Test Cases Percentage: Test Cases that Passed Coverage is a metric that indicates the percentage of test cases that pass.
+Passed Test Cases Percentage = (Total number of tests ran / Total number of tests executed) x 100
+3. Failed Test Cases Percentage: This metric measures the proportion of all failed test cases.
+Failed Test Cases Percentage = (Total number of failed test cases / Total number of tests executed) x 100
+4. Blocked Test Cases Percentage: During the software testing process, this parameter determines the percentage of test cases that are blocked.
+Blocked Test Cases Percentage = (Total number of blocked tests / Total number of tests executed) x 100
+5. Fixed Defects Percentage: Using this measure, the team may determine the percentage of defects that have been fixed.
+  
+Q2. Explain about Test Estimation
+  Test Estimation is the process of predicting the time, effort, cost, and resources required to complete software testing activities.
+  It helps in project planning, scheduling, budgeting, and resource allocation.
+
+    * Effort: The total amount of work required for testing activities.
+    * Time: The duration needed to complete testing tasks.
+    * Cost: The overall budget required for testing, including tools and resources.  
+
+Steps in Test Estimation:
+1. Work Breakdown
+The testing process is divided into smaller tasks for easy estimation.
+
+2. Task Identification
+Activities such as test planning, test design, execution, and reporting are identified.
+
+3. Estimation
+Time, effort, and cost are estimated for each task.
+
+4. Factor Analysis
+Factors such as project complexity, team experience, and testing type are considered.
+
+5. Buffer Time
+Extra time is added for unexpected issues and delays.
+
+6. Continuous Review
+Estimates are regularly reviewed and improved based on actual project progress.
