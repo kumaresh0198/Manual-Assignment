@@ -1,0 +1,69 @@
+Experience-Based Testing is a software testing technique that depends on the knowledge, skills, intuition, and past experience of testers to identify defects in an application. 
+Instead of following only predefined test cases, testers use their understanding of the system and previous project experience to find possible issues.
+
+This testing approach is mainly useful when:
+* Requirements are unclear or incomplete
+* Documentation is limited
+* There is less time for detailed testing
+* Quick feedback is needed
+
+Types of Experience-Based Testing
+1. Error Guessing
+Error Guessing is based on the tester’s intuition and experience to predict where defects may occur.
+Testers identify possible problem areas using:
+Previous project experience
+Common coding mistakes
+Frequently occurring defects
+User behavior patterns
+Example
+Checking blank input fields
+Entering invalid data
+Testing maximum character limits
+
+2. Exploratory Testing
+Exploratory Testing is an approach where the tester:
+* Learns the application
+* Designs test cases
+* Executes tests simultaneously
+
+3. Checklist-Based Testing
+In this technique, testers use a predefined checklist created from:
+* Past project experiences
+* Industry standards
+* Common testing scenarios
+
+4. Attack Testing
+Attack Testing focuses on intentionally trying to break the application by:
+* Giving invalid inputs
+* Performing unauthorized actions
+* Testing security vulnerabilities
+
+
+Advantages of Experience-Based Testing:
+* It works well when requirements or documents are incomplete.
+* Testing can start quickly without waiting for detailed test cases.
+* Experienced testers can identify defects more effectively.
+
+Disadvantages of Experience-Based Testing
+* Testing quality depends on the tester’s knowledge and experience.
+* It is hard to calculate exact test coverage.
+* Projects requiring strict documentation and compliance may need structured testing methods.
+
+Flow of Experience-Based Testing:
+Step 1: Test Session Preparation
+Prepare the testing environment and understand the application.
+
+Step 2: Test Execution
+Testers start exploring and testing the application.
+
+Step 3: Test Design
+Test cases are created dynamically during testing.
+
+Step 4: Evaluation
+Test results are analyzed and defects are identified.
+
+Step 5: Learning and Improvement
+Testers learn from the results and improve future testing.
+
+Step 6: Reporting
+Observations and defects are documented and shared with stakeholders.
