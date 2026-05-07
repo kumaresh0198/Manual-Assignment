@@ -1,0 +1,53 @@
+Deliverables in software testing are the documents, reports, and outputs created during the testing process.
+These deliverables help track testing activities, communicate project status, and ensure software quality.
+
+Before Testing:
+* Test Strategy
+A high-level document that explains the overall testing approach.
+
+* Test Plan
+A detailed document containing testing scope, objectives, schedule, resources, and testing activities.
+
+* Requirement Traceability Matrix (RTM)
+A document used to ensure all requirements are covered by test cases.
+
+* Test Cases
+Step-by-step conditions used to verify application functionality.
+
+* Test Scripts
+Scripts mainly used in automation testing to execute tests automatically.
+
+* Test Data
+Input data used during testing.
+
+* Test Environment Setup
+Details about hardware, software, and configurations needed for testing.
+
+During Testing:
+* Daily Status Report
+Provides daily updates about testing progress and issues.
+
+* Defect Report
+Contains information about bugs found in the application along with steps to reproduce them.
+
+* Test Execution Report
+Shows executed, passed, failed, and blocked test cases.
+
+* Code Coverage Report
+Displays how much code has been tested.
+
+After Testing:
+* Test Summary Report
+A final report summarizing the overall testing results.
+
+* Defect Analysis Report
+Provides detailed analysis of defects identified during testing.
+
+* UAT Results
+Feedback collected from end users during User Acceptance Testing.
+
+* Release Notes
+Contains details about new features, fixes, and known issues in the release.
+
+* Test Closure Report
+Final document explaining testing completion, defect status, and software quality.
